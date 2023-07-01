@@ -1,6 +1,6 @@
 Ola, sou Guilherme de Jesus Gregorio
 
-- 🌱 Atualmente, estou estudno sobre desenvolvimento mobile, com dart e flutter
+- 🌱 Atualmente, estou estudando sobre pyton
 - 📫 Entre em contato através do email: guilhermedejesus523@gmail
 
   <div>
@@ -10,8 +10,7 @@ Ola, sou Guilherme de Jesus Gregorio
   <div>
 
   <div style="display: inline_block"><br>
-   <img align="center" alt="Gui-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Gui-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+   <img align="center" alt="Gui-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <div>
 
  <div>
